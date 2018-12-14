@@ -6,8 +6,13 @@ Fast cook-off (FCO) is a standard safety test that must be enforced globally on 
   ### Environmental concerns
   Ordinarily large amounts of hydrocarbon fuel (JP-5, JP-8, kerosene, etc.) would be burned during a typical FCO test which often led to the release of large amounts of harmful emissions into the environment, but with the world becoming more eco-conscious an alternative had to be found. Relative to everyday hydrocarbon fuels propane burns cleaner thus it does not negatively harm the environment as much.  
     
-   ### Thermal requirements  
+   ### [Thermal requirements](https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2013/IMEM/T16204_Scholtes.pdf)  
    To ensure propane is indeed a suitable substitute it must also meet several criteria which to some extent guarantees that it will produce similar heating conditions as with a liquid hydrocarbon fuel. The criteria below are set out in STANAG 4240 and must normally be verified by testing:  
    * The heat load to the test item must match what would be achieved from a liquid hydrocarbon fuel fire.  
-   * The heating must be uniform.  
-   * The heating must roughly be 90% radiation.
+   * The average temperature should be greater than 800°C while the measured heat flux should be greater than 80 kW/m2 
+   * The heating must be uniform.
+   * The munition test item must be engulfed by the flames.
+   * The heating must roughly be 90% radiation.  
+   * The heating duration at minimal should be 150% of the estimated test time.
+     
+     
