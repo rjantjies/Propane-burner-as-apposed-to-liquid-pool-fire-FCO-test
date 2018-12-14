@@ -13,6 +13,7 @@ Fast cook-off (FCO) is a standard safety test that must be enforced globally on 
    * The heating must be uniform.
    * The munition test item must be engulfed by the flames.
    * The heating must roughly be 90% radiation.  
-   * The heating duration at minimal should be 150% of the estimated test time.
+   * The heating duration at minimal should be 150% of the estimated test time.  
+   
      
      
