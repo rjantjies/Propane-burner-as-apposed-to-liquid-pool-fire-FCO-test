@@ -1,3 +1,13 @@
 # Propane-burner-as-oppposed-to-a liquid-pool-fire-FCO-test
 ## Introduction  
-Fast cook-off is a standard safety test that must be enforced globally on all munitions. [Traditionally fast cook-off tests would be conducted using liquid-fuel-pool-fires](https://www.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-AVT-214/EN-AVT-214-02.pdf) to assess the vulnerability or rather sensitivity of munitions. However, in recent years the focus has been shifted to find alternative methods to conduct fast cook-off tests as opposed to the one currently employed. Initially only proposed as a substitute, propane burners have already proved to be [safer, inexpensive and more environmentally friendly](https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/imem/20118_Washburn_Paper.pdf) when compared to the liquid-fuel-pool-fires. 
+Fast cook-off (FCO) is a standard safety test that must be enforced globally on all munitions. [Traditionally fast cook-off tests would be conducted using liquid-fuel-pool-fires](https://www.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-AVT-214/EN-AVT-214-02.pdf) to assess the vulnerability or rather sensitivity of munitions. However, in recent years the focus has been shifted to find alternative methods to conduct fast cook-off tests as opposed to the one currently employed. Initially only proposed as a substitute, propane burners have already proved to be [safer, inexpensive and more environmentally friendly](https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2018/imem/20118_Washburn_Paper.pdf) when compared to the liquid-fuel-pool-fires.  
+  
+  ## Propane as an appropriate substitute to liquid-fuel for conducting FCO tests  
+  ### Environmental concerns
+  Ordinarily large amounts of hydrocarbon fuel (JP-5, JP-8, kerosene, etc.) would be burned during a typical FCO test which often led to the release of large amounts of harmful emissions into the environment, but with the world becoming more eco-conscious an alternative had to be found. Relative to everyday hydrocarbon fuels propane burns cleaner thus it does not negatively harm the environment as much.  
+    
+   ### Thermal requirements  
+   To ensure propane is indeed a suitable substitute it must also meet several criteria which to some extent guarantees that it will produce similar heating conditions as with a liquid hydrocarbon fuel. The criteria below are set out in STANAG 4240 and must normally be verified by testing:  
+   * The heat load to the test item must match what would be achieved from a liquid hydrocarbon fuel fire.  
+   * The heating must be uniform.  
+   * The heating must roughly be 90% radiation.
