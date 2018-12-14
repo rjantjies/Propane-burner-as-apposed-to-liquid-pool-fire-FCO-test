@@ -10,7 +10,7 @@ Fast cook-off (FCO) is a standard safety test that must be enforced globally on 
    To ensure propane is indeed a suitable substitute it must also meet several criteria which to some extent guarantees that it will produce similar heating conditions as with a liquid hydrocarbon fuel. The criteria below are set out in STANAG 4240 and must normally be verified by testing:  
    * The heat load to the test item must match what would be achieved from a liquid hydrocarbon fuel fire.  
    * The average temperature should be greater than 800°C while the measured heat flux should be greater than 80 kW/m2 
-   * The heating must be uniform.
+   * The heating must be uniform such that the standard deviation of the local temperature does not deviate by more than 10% of the overall average temperature.
    * The munition test item must be engulfed by the flames.
    * The heating must roughly be 90% radiation.  
    * The heating duration at minimal should be 150% of the estimated test time.  
