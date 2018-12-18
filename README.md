@@ -8,7 +8,7 @@ Propane together with natural gas, butane and hexane were proposed as an alterna
    ## FCO test requirements
    To ensure propane is indeed a suitable substitute it must also meet several criteria which to some extent guarantees that it will produce similar heating conditions as with a liquid hydrocarbon fuel. The criteria below are set out in STANAG 4240 and must normally be verified through extensive testing:  
    1. Test hearth size  
-   The region within the fire where the thermal (both temperature and heat flux) requirements are met is referred to as the hearth. Preferentially the hearth should be designed such that the test item is completely engulfed by flames, but still large enough to allow sufficient clearance on each side of the test item.  
+   The region within the fire where the thermal (both temperature and heat flux) requirements are met is referred to as the hearth. Preferentially the hearth should be designed such that the test item is completely engulfed by flames, but still large enough to allow sufficient clearance on each side of the test item. To ensure the test item is completely engulfed by the flames it must be centered within the hearth area.  
    
    2. Test hearth  
    Using external thermocouples which are placed at prefixed locations an average flame temperature of 800°C must be measured for the test to be considered valid.
