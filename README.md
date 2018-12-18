@@ -16,6 +16,17 @@ Fast cook-off (FCO) is a standard safety test that must be enforced globally on 
    * The heating duration at minimal should be 150% of the estimated test time.  
      
      ## Cost analysis
+   To compare the costs associated with fast cook-off testing a cost analysis was performed on both the propane burner and the liquid-fuel-pool-fire. The operating cost associated with the propane burner is based off burners used at Dahlgren. Using a similar approach, a cost model can be applied which include the following divisions:  
+   - Nonrecurring costs  
+   - Per-test cost of daily operations
+   - Annualized recurring costs  
+     
+     ### Nonrecurring costs  
+       
+       ### Per-test costs  
+         
+        ### Annualized recurring costs
+
    
      
      
