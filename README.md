@@ -21,7 +21,8 @@ Fast cook-off (FCO) is a standard safety test that must be enforced globally on 
    - Per-test cost of daily operations
    - Annualized recurring costs  
      
-     ### Nonrecurring costs  
+     ### Nonrecurring costs
+     Non-recurring costs refers to the one-time cost associated with acquiring a propane burner. Generally it also includes the engineering costs to design the burner
        
        ### Per-test costs  
          
