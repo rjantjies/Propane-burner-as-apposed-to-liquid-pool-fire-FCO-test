@@ -22,12 +22,13 @@ Fast cook-off (FCO) is a standard safety test that must be enforced globally on 
    - Annualized recurring costs  
      
      ### Nonrecurring costs
-     Non-recurring costs refers to the one-time cost associated with acquiring a propane burner. Generally, it also includes the engineering costs to design the burner. To build a propane burner manufacturing and construction costs have to considered. Calibrating and certifying a propane burner once fully developed can also be seen as a nonrecurring cost. Whilst each of these are equally as important as the other, the major contributor to nonrecurring cost is the labour required to fabricate and assemble the test facility.
+     Non-recurring costs refers to the one-time cost associated with acquiring a propane burner. Generally, it also includes the engineering costs to design the burner. To build a propane burner manufacturing and construction costs have to considered. Calibrating and certifying a propane burner once fully developed can also be seen as a nonrecurring cost. Whilst each of these are equally as important as the other, the major contributor to nonrecurring cost is the labour required to fabricate and assemble the test facility.  
+       
        ### Per-test costs
-       
-       
-         
+      The per-test costs include all the recurring costs that are to be repeated for each test performed. The per-test costs incorporate the requirements and documentation, all pre-test preparations and fabrication, the labour involved in test execution, all post-test activities, material surcharges and non-labour costs.  
+        
         ### Annualized recurring costs
+        fbfhthr
 
    
      
