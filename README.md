@@ -4,7 +4,7 @@ Fast cook-off (FCO) is a standard safety test that must be enforced globally on 
   
   ## Propane as an appropriate substitute to liquid-fuel for conducting FCO tests  
   ### Environmental concerns
-  Ordinarily large amounts of hydrocarbon fuel (JP-5, JP-8, kerosene, etc.) would be burned during a typical FCO test which often led to the release of large amounts of harmful emissions into the environment, but with the world becoming more eco-conscious an alternative had to be found. Relative to everyday hydrocarbon fuels propane burns cleaner thus it does not negatively harm the environment as much.  
+  Ordinarily large amounts of hydrocarbon fuel (JP5, JP8, kerosene, etc.) would be burned during a typical FCO test which often led to the release of large amounts of harmful emissions into the environment, but with the world becoming more eco-conscious an alternative had to be found. Relative to everyday hydrocarbon fuels propane burns cleaner thus it does not negatively harm the environment as much.  
     
    ### [Thermal requirements](https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2013/IMEM/T16204_Scholtes.pdf)  
    To ensure propane is indeed a suitable substitute it must also meet several criteria which to some extent guarantees that it will produce similar heating conditions as with a liquid hydrocarbon fuel. The criteria below are set out in STANAG 4240 and must normally be verified by testing:  
@@ -23,12 +23,17 @@ Fast cook-off (FCO) is a standard safety test that must be enforced globally on 
      
      ### Nonrecurring costs
      Non-recurring costs refers to the one-time cost associated with acquiring a propane burner. Generally, it also includes the engineering costs to design the burner. To build a propane burner manufacturing and construction costs have to considered. Calibrating and certifying a propane burner once fully developed can also be seen as a nonrecurring cost. Whilst each of these are equally as important as the other, the major contributor to nonrecurring cost is the labour required to fabricate and assemble the test facility.  
+     #### Engineering costs 
+     Using readily available materials which are inexpensive a 3.7 m x 3.7 m propane burner was assembled at Dahlgren. 
+     #### Manufacturing and construction costs  
+     #### Fuel delivery and control system costs  
+     #### Calibration costs
        
        ### Per-test costs
       The per-test costs include all the recurring costs that are to be repeated for each test performed. The per-test costs incorporate the requirements and documentation, all pre-test preparations and fabrication, the labour involved in test execution, all post-test activities, material surcharges and non-labour costs.  
         
         ### Annualized recurring costs
-        fbfhthr
+        The annualized costs include all the recurring costs that are not directly linked to test execution. Generally these recurring costs would comprise of regular maintenance to the system as well as costs associated with maintaining regulatory and safety compliances.
 
    
      
