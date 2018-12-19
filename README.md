@@ -11,20 +11,23 @@ Propane together with natural gas, butane and hexane were proposed as an alterna
    The region within the fire where the thermal (both temperature and heat flux) requirements are met is referred to as the hearth. Preferentially the hearth should be designed such that the test item is completely engulfed by flames, but still large enough to allow sufficient clearance on each side of the test item. To ensure the test item is completely engulfed by the flames it must be centered within the hearth area.  
    
    2. Test hearth  
-   Using external thermocouples which are placed at prefixed locations an average flame temperature of 800°C must be measured for the test to be considered valid.
+   Using external thermocouples which are placed at prefixed locations an average flame temperature of 800°C must be measured for the test to be considered valid. Also, all the valid thermocouples must measure the flame temperature to be 550°C within 30 seconds of ignition otherwise the test will be declared invalid.
      
    3. Test environment  
-   It is recommended that the test not be conducted in the rain as it could lead to localized heating irregularities which may affect the outcome of the test. Also, FCO test using a burner should specofcally not be conducted with high wind velocities as it will prevent the test item from being fully engulfed by flames.
+   It is recommended that the test not be conducted in the rain as it could lead to localized heating irregularities which may affect the outcome of the test. Also, FCO test using a burner should specifically not be conducted with high wind velocities as it will prevent the test item from being fully engulfed by flames.
      
    4. Test timing  
-   Timing on the test item reaction starts the instant all valid thermocouples reach 550°C. Once all thermocouples have reach this temperature it can be assumed with confidence that the flames has indeed completely engulfed the test item.
+   Timing on the test item reaction starts the instant all valid thermocouples reach 550°C. Once all thermocouples have reach this temperature it can be assumed with confidence that the flames has indeed completely engulfed the test item.  
+     
+   ## Burner calibration
+   Calibration is essential especially when FCO tests is conducted using a burner. Although the work related to calibration can sometimes become tedious, it just has to be done one time. Once a test facility is qualified no further calibration would be needed for future testing unless adjustments are made to the current configuration. To ensure a test facility is appropiately calibrated, it needs to adhere to the following requirements:  
+   - The average flame temperature, which is determined by averaging the temperature of all the valid thermocouples from the time flame temperature reach 550°C and measured for 30 seconds at rate equal to 1 Hz, should be greater than 800°C.  
+   - The measured heat flux must be greater than 80 kW/m2. Specifically for this reason liquid propane instead of gaseous propane is used to get a high enough mass flow rate that satisfies the high heat flux. 
+   - The heating must be applied uniformly. If the average measured temperature at all valid thermocouples deviate by less than 10% of the overall average temperature, then heating is considered to be uniform.
     
    ## FCO test requirements
    To ensure propane is indeed a suitable substitute it must also meet several criteria which to some extent guarantees that it will produce similar heating conditions as with a liquid hydrocarbon fuel. The criteria below are set out in STANAG 4240 and must normally be verified by testing:  
    * The heat load to the test item must match what would be achieved from a liquid hydrocarbon fuel fire.  
-   * The average temperature should be greater than 800°C while the measured heat flux should be greater than 80 kW/m2 
-   * The heating must be uniform such that the standard deviation of the local temperature does not deviate by more than 10% of the overall average temperature.
-   * The munition test item must be engulfed by the flames.
    * The heating must roughly be 90% radiation.  
    * The heating duration at minimal should be 150% of the estimated test time.  
      
