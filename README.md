@@ -22,7 +22,7 @@ Propane together with natural gas, butane and hexane were proposed as an alterna
    ## Burner calibration
    Calibration is essential especially when FCO tests is conducted using a burner. Although the work related to calibration can sometimes become tedious, it just has to be done one time. Once a test facility is qualified no further calibration would be needed for future testing unless adjustments are made to the current configuration. To ensure a test facility is appropiately calibrated, it needs to adhere to the following requirements:  
    - The average flame temperature, which is determined by averaging the temperature of all the valid thermocouples from the time flame temperature reach 550°C and measured for 30 seconds at rate equal to 1 Hz, should be greater than 800°C.  
-   - The measured heat flux must be greater than 80 kW/m2. Specifically for this reason liquid propane instead of gaseous propane is used to get a high enough mass flow rate that satisfies the high heat flux. 
+   - The measured heat flux must be greater than 80 kW/m2. Specifically for this reason liquid propane instead of gaseous propane is used to get a high enough mass flow rate that would satisfies the high heat flux. 
    - The heating must be applied uniformly. If the average measured temperature at all valid thermocouples deviate by less than 10% of the overall average temperature, then heating is considered to be uniform.
     
    ## FCO test requirements
